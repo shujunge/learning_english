@@ -27,6 +27,8 @@ were
 been
 
 ```
+
+
 ### 多个副词并列
 
 程度副词-> 方式副词-> 地点副词 -> 时间副词
@@ -98,7 +100,7 @@ Always -> 总是
 almost always-> 几乎总是
 usually -> 通常
 often -> 经常
-simetimes -> 有时
+sometimes -> 有时
 occasionally -> 偶尔
 seldom -> 很少地
 rarely -> 极少地
